@@ -1,3 +1,10 @@
+# PROJECT ENTRIES
+*.fits
+*noupload*
+*no_upload*
+# ---------------
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
