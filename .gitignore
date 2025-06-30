@@ -1,3 +1,11 @@
+# PROJECT ENTRIES
+*.fits
+*noupload*
+*no_upload*
+*.DS_Store
+# ---------------
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
