@@ -2,6 +2,7 @@
 *.fits
 *noupload*
 *no_upload*
+*.DS_Store
 # ---------------
 
 
