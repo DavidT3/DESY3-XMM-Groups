@@ -2,7 +2,7 @@
 *.fits
 *noupload*
 *no_upload*
-*.DS_Store
+*DS_Store*
 *xga_output*
 # ---------------
 
